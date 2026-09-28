@@ -64,6 +64,7 @@ and this project adheres to
   `COLLABORATION_VERSION_GRANULARITY_MS`
 - ✨(frontend) keep a local copy of documents, so they open and stay editable
   offline
+- 👷(ci) lint, type-check and test yhub-server and the loadtest packages
 - 🐛(frontend) stop the service worker from caching the collaboration server's
   rest api
 
